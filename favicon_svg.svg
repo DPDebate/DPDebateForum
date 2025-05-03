@@ -1,0 +1,26 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="#4a1b2d" />
+  
+  <!-- Deer antlers -->
+  <path d="M50 18 C40 15, 35 25, 32 28 C28 32, 26 38, 30 45 C32 48, 35 51, 33 53 C30 56, 28 54, 25 52" stroke="#d4a5c7" stroke-width="3" fill="none" />
+  <path d="M50 18 C60 15, 65 25, 68 28 C72 32, 74 38, 70 45 C68 48, 65 51, 67 53 C70 56, 72 54, 75 52" stroke="#d4a5c7" stroke-width="3" fill="none" />
+  
+  <!-- Deer head -->
+  <path d="M40 40 C40 52, 45 65, 50 75 C55 65, 60 52, 60 40 C60 30, 55 20, 50 20 C45 20, 40 30, 40 40" fill="#8b5d83" />
+  
+  <!-- Eyes -->
+  <circle cx="45" cy="45" r="2.5" fill="#331425" />
+  <circle cx="55" cy="45" r="2.5" fill="#331425" />
+  
+  <!-- Nose -->
+  <path d="M47 55 C50 58, 53 55, 50 52 Z" fill="#331425" />
+  
+  <!-- Chat bubble -->
+  <path d="M30 80 C25 85, 25 90, 30 90 L50 90 C65 90, 75 85, 75 75 C75 65, 65 60, 50 60 L40 60 C30 60, 25 65, 25 70 C25 75, 30 80, 40 80 Z" fill="#f4edf2" />
+  
+  <!-- Debate lines -->
+  <line x1="35" y1="70" x2="65" y2="70" stroke="#8b5d83" stroke-width="2" />
+  <line x1="38" y1="75" x2="62" y2="75" stroke="#8b5d83" stroke-width="2" />
+  <line x1="42" y1="80" x2="58" y2="80" stroke="#8b5d83" stroke-width="2" />
+</svg>

@@ -1,0 +1,30 @@
+{
+  "name": "deer-park-debate-forum",
+  "version": "1.0.0",
+  "description": "A cross-device debate forum for the Deer Park Debate Club",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "debate",
+    "forum",
+    "education"
+  ],
+  "author": "Deer Park Debate Club",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

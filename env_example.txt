@@ -1,0 +1,12 @@
+# Server configuration
+PORT=3000
+
+# MongoDB connection string
+# Replace with your actual MongoDB connection string
+MONGODB_URI=mongodb://localhost:27017/deerparkdebate
+
+# For production, you might want to use MongoDB Atlas
+# MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/deerparkdebate
+
+# Optional: JWT Secret for authentication (if implementing user accounts)
+# JWT_SECRET=your_jwt_secret_here
